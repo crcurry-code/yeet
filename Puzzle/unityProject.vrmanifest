@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.puzzle.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\vSpace\\Desktop\\VR Projects\\Students Projects\\Alan, Chase, and Charles\\Puzzle\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Puzzle [Testing]"
+        }
+      }
+    }
+  ]
+}
